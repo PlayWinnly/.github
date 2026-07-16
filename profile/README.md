@@ -15,8 +15,11 @@
   <a href="https://discord.com/invite/BXPNvxGvbQ">
     <img alt="Join Discord" src="https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:hello@playwinnly.com">
-    <img alt="We are hiring" src="https://img.shields.io/badge/We're-Hiring-111111?style=for-the-badge" />
+  <a href="#we-are-hiring">
+    <img
+      alt="Careers: hiring"
+      src="https://img.shields.io/badge/We're-hiring-ff4f9a?style=for-the-badge&labelColor=4f7cff"
+    />
   </a>
 </p>
 
