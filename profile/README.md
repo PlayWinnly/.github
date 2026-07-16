@@ -1,7 +1,7 @@
 <h1 align="center">Winnly</h1>
 
 <p align="center">
-  <strong>No luck. All skill.</strong><br />
+  <h2 align="center">No luck. All skill.</strong></h2>
   We build competitive, skill-based games designed around fast play, fair competition, and meaningful player progression.
 </p>
 
