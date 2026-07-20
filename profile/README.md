@@ -9,7 +9,7 @@
   <a href="https://playwinnly.com/">
     <img alt="Website" src="https://img.shields.io/badge/Website-playwinnly.com-ff4f9a?style=for-the-badge" />
   </a>
-  <a href="https://winnly.app/download">
+  <a href="https://playwinnly.com/download">
     <img alt="Download Winnly" src="https://img.shields.io/badge/Download-Winnly-4f7cff?style=for-the-badge" />
   </a>
   <a href="https://discord.com/invite/BXPNvxGvbQ">
